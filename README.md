@@ -1,7 +1,3 @@
-# Phan Nho Thinh (Elio)
-
-Currently working on Semoia. I'm getting back into programming—building tools for the AI era and contributing to open source.
-
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-@eliophan-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/eliophan)
